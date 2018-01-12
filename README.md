@@ -15,4 +15,4 @@ The VeraTrade project aims to establish supply chain transparency using open sou
 - Buyer reporting and analytics on supply chain performance
 - Smart contract / Token incentives for improved transparency 
 
-Follow our work-in-progress whitepaper in this repository. Suggestions and pull requests are welcomed.
+Follow our work-in-progress [whitepaper](https://github.com/jtberry21/VeraTrade/blob/master/VeraTradeWhitePaper.md) in this repository. Suggestions and pull requests are welcomed.

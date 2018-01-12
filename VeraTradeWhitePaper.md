@@ -55,7 +55,7 @@ The blockchain element of the solution provides two key benefits:
 - Supplier booking with carrier
 - Carrier booking acceptance or rejection
 - Carrier commitment on delivery date 
-- Carrier prediction on deliver date
+- Carrier prediction on delivery date
 - Buyer visibility from order to delivery
 - Buyer reporting and analytics on supply chain performance
 
