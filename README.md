@@ -2,7 +2,9 @@
 Supply Chain Transparency With Open Source Blockchain Technology
 
 ## Introduction
-The VeraTrade project aims to establish supply chain transparency using open source software based and blockchain. The project will create a decentralized supply chain operating network that offers the following features:
+The VeraTrade project will create an open source supply chain operating network backed by blockchain technology. The proposed solution will help buyers optimize their supply chain processes and deliver transparency across suppliers and carriers. 
+
+The project will create a decentralized supply chain operating network that offers the following features:
 - Buyer order entry 
 - Supplier order acceptance or rejection
 - Supplier commitment on ship dates
